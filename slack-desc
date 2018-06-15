@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+       |-----handy-ruler------------------------------------------------------|
+manokwari: manokwari (desktop shell for GNOME 3)
+manokwari:
+manokwari: Manokwari is desktop shell for GNOME 3 with Gtk+ and HTML5 frontend
+manokwari: Used by BlankOn Linux
+manokwari: 
+manokwari: 
+manokwari: 
+manokwari: Website: http://manokwari.blankonlinux.or.id/
+manokwari: 
+manokwari: 
+manokwari:
